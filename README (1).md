@@ -8,7 +8,7 @@ description: >-
 
 I hope you have seen this meme before about linux distributions compared with growing beard compared. As you see Gentoo stands close to Linux from scratch, simply the linux file system.
 
-<figure><img src="../../.gitbook/assets/os-beards.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/os-beards.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;have been an enthusiast for a while and have been tinkering with Gentoo Linux for more than a Year. Wiping drives has been my to do job for few months trying out new unix/linux operating systems in the market and Gentoo linux had been on my list to install. It has taught me more about the hardware level connection with software.
 

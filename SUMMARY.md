@@ -1,7 +1,9 @@
 # Table of contents
 
+* [H3LL0 W0RLD!](README.md)
+
 ## OS
 
-* [Gentoo Linux](README.md)
-  * [Gentoo Linux: Pros and Cons](os/gentoo-linux/gentoo-linux-pros-and-cons.md)
-  * [Pentoo Linux: What's in it?](os/gentoo-linux/pentoo-linux-whats-in-it.md)
+* [Gentoo Linux](os/gentoo-linux/README.md)
+  * [Gentoo Linux: Pros and Cons](<README (1).md>)
+  * [Pentoo Linux: What's in it?](pentoo-linux-whats-in-it.md)

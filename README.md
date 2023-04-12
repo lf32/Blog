@@ -1,7 +1,13 @@
-# H3LL0 W0RLD!
+---
+description: $ mnt /dev/workspace /remote
+---
+
+# h3ll0 w0rld!
 
 My Name is Akhil Raj.&#x20;
 
 I am a Developer. Pentester. Researcher.
 
-I have interest in exploring a lot on the internet and most of the time I enjoy rickrolling others.
+I have kneen interest in exploring a lot of stuff on the internet and I spend most of my the time reading blogs & reddit.
+
+I enjoy RickRolling others.

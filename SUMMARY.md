@@ -1,6 +1,6 @@
 # Table of contents
 
-* [H3LL0 W0RLD!](README.md)
+* [h3ll0 w0rld!](README.md)
 
 ## OS
 

@@ -7,3 +7,9 @@
 * [Gentoo Linux](os/gentoo-linux/README.md)
   * [Gentoo Linux: Pros and Cons](<README (1).md>)
   * [Pentoo Linux: What's in it?](pentoo-linux-whats-in-it.md)
+
+## Privacy
+
+* [Crypto Currency](privacy/crypto-currency.md)
+* [Chat Applications](privacy/chat-applications.md)
+* [Operating Systems](privacy/operating-systems.md)

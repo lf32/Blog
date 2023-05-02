@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Bandit War games Write-up
+# Bandit Wargames Writeups
 
 To get started with each level we need to login through SSH and try to crack password for each next level using the password found in current level.
 

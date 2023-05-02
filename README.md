@@ -1,8 +1,9 @@
 ---
 description: $ mnt /dev/workspace /remote
+coverY: 0
 ---
 
-# h3ll0 w0rld!
+# Hello, World!...
 
 My Name is Akhil Raj.&#x20;
 

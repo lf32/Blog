@@ -2,6 +2,9 @@
 description: >-
   In this, I would like to share the pros and cons I had understood about the
   Gentoo Linux operating System
+cover: >-
+  https://images.unsplash.com/photo-1643845701862-1009d3112aff?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxnZW50b298ZW58MHx8fHwxNjg0MjY5MjcxfDA&ixlib=rb-4.0.3&q=85
+coverY: 68
 ---
 
 # Gentoo Linux: Pros and Cons

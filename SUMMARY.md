@@ -4,8 +4,10 @@
 
 ## writeups
 
-* [OverTheWire](writeups/overthewire/README.md)
-  * [Bandit Wargames Writeups](writeups/overthewire/bandit.md)
+* [💣 OverTheWire](writeups/overthewire/README.md)
+  * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
+* [🎃 HackTheBox](writeups/hackthebox/README.md)
+  * [👨🔬 \[M\] BroScience](writeups/hackthebox/m-broscience.md)
 
 ## OS
 

@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Hello, World!...](README.md)
+* [👋 Hello, World!...](README.md)
 
 ## writeups
 
-* [💣 OverTheWire](writeups/overthewire/README.md)
-  * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
 * [🎃 HackTheBox](writeups/hackthebox/README.md)
   * [👨🔬 \[M\] BroScience](writeups/hackthebox/m-broscience.md)
+* [💣 OverTheWire](writeups/overthewire/README.md)
+  * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
 
 ## OS
 

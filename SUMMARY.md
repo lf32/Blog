@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Hello, World!...](README.md)
+* [👋 Hello, World, lf32 here!](README.md)
 
 ## writeups
 
@@ -8,17 +8,17 @@
   * [👨🔬 \[M\] BroScience](writeups/hackthebox/m-broscience.md)
 * [💣 OverTheWire](writeups/overthewire/README.md)
   * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
-
-## OS
-
-* [Gentoo Linux](os/gentoo-linux/README.md)
-  * [Gentoo Linux: Pros and Cons](<README (1).md>)
-  * [Pentoo Linux: What's in it?](pentoo-linux-whats-in-it.md)
+* [🏴☠ CTF Writeups](writeups/ctf-writeups/README.md)
+  * [PicoCTF](writeups/ctf-writeups/picoctf.md)
+* [🕷 Malware Analysis](writeups/malware-analysis/README.md)
+  * [Untitled](writeups/malware-analysis/untitled.md)
 
 ## 🏁 READINGS
 
-* [Why verify package signatures?](explorations/why-verify-package-signatures.md)
+* [🏴☠ The Elitest Man And His Bookmarks](readings/the-elitest-man-and-his-bookmarks.md)
 
-***
+## 🔑 JustAnotherBlog
 
-* [Malware Analysis 101](malware-analysis-101.md)
+* [Gentoo Linux](justanotherblog/gentoo-linux/README.md)
+  * [Gentoo Linux: Pros and Cons](justanotherblog/gentoo-linux/gentoo-linux-pros-and-cons.md)
+  * [Pentoo Linux: What's in it?](justanotherblog/gentoo-linux/pentoo-linux-whats-in-it.md)

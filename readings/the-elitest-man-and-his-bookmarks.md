@@ -10,8 +10,31 @@ coverY: 0
 
 # 🏴☠ The Elitest Man And His Bookmarks
 
-
+## Conferences
 
 * [infocon.org ](https://infocon.org) - Everthing archive related to BlackHat Conferences
+
+## Red Team Related
+
+* [ired.team](https://ired.team) - A Red Teamer's Handguide
+* [mohamed-fakroud.gitbook.io](https://mohamed-fakroud.gitbook.io) - OSCP and CRTO by Mohamed Fakroud&#x20;
+
+## Kernel Related
+
+* [GNU C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - C Language Documentation
+* [doc.rust-lang.org](https://doc.rust-lang.org/std/index.html) - Rust Language Documentation
 * [docs.kernel.org](https://docs.kernel.org) - Linux Kernel Documentation
-*
+* [xairy.io](https://xairy.io) - Linux and Android Kernels Exploits
+
+## Malware Related
+
+* [vx-underground](https://vx-underground.org) - Everthing Malware and Research Papers
+* [bazaar.ch](https://bazaar.abuse.ch/) - Malware samples and APIs
+
+## Games
+
+* tryhackme.com
+* hackthebox.com
+* vulnhub.com
+* overthewire.org
+* hackthissite.org

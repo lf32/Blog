@@ -38,3 +38,8 @@ coverY: 0
 * vulnhub.com
 * overthewire.org
 * hackthissite.org
+
+## Villages
+
+* [passwordvillage.org](https://passwordvillage.org/) - A Hash Cracking Knowledge book by KryptoLogic
+

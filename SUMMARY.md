@@ -5,8 +5,8 @@
 
 ## 🔬 Malware Analysis
 
-* [Malware Analysis 101](malware-analysis/malware-analysis-101.md)
-* [🔐 WannaCry.exe](malware-analysis/wannacry.exe.md)
+* [Malware Analysis 101](malware-analysis/malware-analysis-101/README.md)
+  * [🔐 WannaCry.exe](malware-analysis/malware-analysis-101/wannacry.exe.md)
 
 ## 🏁 READINGS
 

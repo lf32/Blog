@@ -8,7 +8,7 @@ description: $ mnt /dev/workspace /remote
 
 I am a Offensive Pentester and a Security Researcher.
 
-I have kneen interest in exploring a lot of stuff on the internet and I spend most of my the time reading blogs & reddit. I enjoy RickRolling others.
+I have kneen interest in exploring a lot of stuff on the internet and I spend most of my the time  reading other people blogs & subreddits.
 
 I can't be like MrRobot because
 

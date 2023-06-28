@@ -4,14 +4,14 @@
 
 ## writeups
 
-* [🎃 HackTheBox](writeups/hackthebox/README.md)
-  * [👨🔬 \[M\] BroScience](writeups/hackthebox/m-broscience.md)
-* [💣 OverTheWire](writeups/overthewire/README.md)
-  * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
-* [🏴☠ CTF Writeups](writeups/ctf-writeups/README.md)
-  * [PicoCTF](writeups/ctf-writeups/picoctf.md)
 * [🕷 Malware Analysis](writeups/malware-analysis/README.md)
   * [Untitled](writeups/malware-analysis/untitled.md)
+* [💣 OverTheWire](writeups/overthewire/README.md)
+  * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
+* [🎃 HackTheBox](writeups/hackthebox/README.md)
+  * [👨🔬 \[M\] BroScience](writeups/hackthebox/m-broscience.md)
+* [🏴☠ CTF Writeups](writeups/ctf-writeups/README.md)
+  * [PicoCTF](writeups/ctf-writeups/picoctf.md)
 
 ## 🏁 READINGS
 

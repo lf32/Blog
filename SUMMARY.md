@@ -7,7 +7,6 @@
 
 * [Malware Analysis 101](malware-analysis/malware-analysis-101.md)
 * [🔐 WannaCry.exe](malware-analysis/wannacry.exe.md)
-* [🔐 LockBit 2.0](malware-analysis/lockbit-2.0.md)
 
 ## 🏁 READINGS
 

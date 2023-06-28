@@ -5,7 +5,7 @@ cover: >-
 coverY: 64
 ---
 
-# 🎃 HackTheBox
+# HackTheBox
 
 My profile is at [https://app.hackthebox.com/profile/1343388](https://app.hackthebox.com/profile/1343388)
 

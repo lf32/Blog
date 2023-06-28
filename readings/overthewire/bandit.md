@@ -3,6 +3,20 @@ description: Here is the complete write-up for the bandit war games for all leve
 cover: >-
   https://images.unsplash.com/photo-1588450248442-1c8357368dba?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHx3YXJnYW1lc3xlbnwwfHx8fDE2ODMwMzE2NzI&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🧨 Bandit Wargames

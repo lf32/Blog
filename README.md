@@ -1,5 +1,6 @@
 ---
 description: $ mnt /dev/workspace /remote
+layout: landing
 ---
 
 # 👋 Hello, World, lf32 here!

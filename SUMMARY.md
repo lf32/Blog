@@ -1,24 +1,25 @@
 # Table of contents
 
 * [👋 Hello, World, lf32 here!](README.md)
+* [🏴☠ The Elitest Man And His Bookmarks](the-elitest-man-and-his-bookmarks.md)
 
-## writeups
+## 🔬 Malware Analysis
 
-* [🕷 Malware Analysis](writeups/malware-analysis/README.md)
-  * [Untitled](writeups/malware-analysis/untitled.md)
-* [💣 OverTheWire](writeups/overthewire/README.md)
-  * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
-* [🎃 HackTheBox](writeups/hackthebox/README.md)
-  * [👨🔬 \[M\] BroScience](writeups/hackthebox/m-broscience.md)
-* [🏴☠ CTF Writeups](writeups/ctf-writeups/README.md)
-  * [PicoCTF](writeups/ctf-writeups/picoctf.md)
+* [Malware Analysis 101](malware-analysis/malware-analysis-101.md)
+* [🔐 WannaCry.exe](malware-analysis/wannacry.exe.md)
+* [🔐 LockBit 2.0](malware-analysis/lockbit-2.0.md)
 
 ## 🏁 READINGS
 
-* [🏴☠ The Elitest Man And His Bookmarks](readings/the-elitest-man-and-his-bookmarks.md)
+* [HackTheBox](readings/hackthebox/README.md)
+  * [\[M\] BroScience](readings/hackthebox/m-broscience.md)
+* [CTF Writeups](readings/ctf-writeups/README.md)
+  * [PicoCTF](readings/ctf-writeups/picoctf.md)
+* [OverTheWire](readings/overthewire/README.md)
+  * [🧨 Bandit Wargames](readings/overthewire/bandit.md)
 
-## 🔑 JustAnotherBlog
+## 🔑 Howdie Fellas
 
-* [Gentoo Linux](justanotherblog/gentoo-linux/README.md)
-  * [Gentoo Linux: Pros and Cons](justanotherblog/gentoo-linux/gentoo-linux-pros-and-cons.md)
-  * [Pentoo Linux: What's in it?](justanotherblog/gentoo-linux/pentoo-linux-whats-in-it.md)
+* [Gentoo Linux](howdie-fellas/gentoo-linux/README.md)
+  * [Gentoo Linux: Pros and Cons](howdie-fellas/gentoo-linux/gentoo-linux-pros-and-cons.md)
+  * [Pentoo Linux: What's in it?](howdie-fellas/gentoo-linux/pentoo-linux-whats-in-it.md)

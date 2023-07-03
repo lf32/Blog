@@ -1,5 +1,5 @@
 ---
-description: $ mnt /dev/workspace /remote
+description: '# ./lf32'
 layout: landing
 ---
 

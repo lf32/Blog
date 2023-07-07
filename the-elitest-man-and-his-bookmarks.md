@@ -24,7 +24,7 @@ layout:
 
 # 🏴☠ The Elitest Man And His Bookmarks
 
-## Conferences
+## [https://0xpat.github.io](https://0xpat.github.io)Conferences
 
 * [infocon.org ](https://infocon.org) - Everthing archive related to BlackHat Conferences
 
@@ -42,6 +42,7 @@ layout:
 
 ## Malware Related
 
+* [0xpat.github.io](the-elitest-man-and-his-bookmarks.md#https-0xpat.github.ioconferences) - Malware Development 101
 * [vx-underground](https://vx-underground.org) - Everthing Malware and Research Papers
 * [bazaar.ch](https://bazaar.abuse.ch/) - Malware samples and APIs
 

@@ -24,7 +24,7 @@ layout:
 
 # 🏴☠ The Elitest Man And His Bookmarks
 
-## [https://0xpat.github.io](https://0xpat.github.io)Conferences
+## Conferences
 
 * [infocon.org ](https://infocon.org) - Everthing archive related to BlackHat Conferences
 

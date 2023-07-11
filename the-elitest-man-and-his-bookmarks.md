@@ -28,10 +28,16 @@ layout:
 
 * [infocon.org ](https://infocon.org) - Everthing archive related to BlackHat Conferences
 
-## Red Team Related
+## Offensive Security Related
 
 * [ired.team](https://ired.team) - A Red Teamer's Handguide
 * [mohamed-fakroud.gitbook.io](https://mohamed-fakroud.gitbook.io) - OSCP and CRTO by Mohamed Fakroud&#x20;
+
+## Malware Related
+
+* [0xpat.github.io](the-elitest-man-and-his-bookmarks.md#https-0xpat.github.ioconferences) - Malware Development 101
+* [vx-underground](https://vx-underground.org) - Everthing Malware and Research Papers
+* [bazaar.ch](https://bazaar.abuse.ch/) - Malware samples and APIs
 
 ## Kernel Related
 
@@ -40,11 +46,7 @@ layout:
 * [docs.kernel.org](https://docs.kernel.org) - Linux Kernel Documentation
 * [xairy.io](https://xairy.io) - Linux and Android Kernels Exploits
 
-## Malware Related
 
-* [0xpat.github.io](the-elitest-man-and-his-bookmarks.md#https-0xpat.github.ioconferences) - Malware Development 101
-* [vx-underground](https://vx-underground.org) - Everthing Malware and Research Papers
-* [bazaar.ch](https://bazaar.abuse.ch/) - Malware samples and APIs
 
 ## Games
 

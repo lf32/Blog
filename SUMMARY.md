@@ -3,11 +3,6 @@
 * [👋 Hello, World, lf32 here!](README.md)
 * [🏴☠ The Elitest Man And His Bookmarks](the-elitest-man-and-his-bookmarks.md)
 
-## 🔬 Malware Analysis
-
-* [Malware Analysis 101](malware-analysis/malware-analysis-101/README.md)
-  * [🔐 WannaCry.exe](malware-analysis/malware-analysis-101/wannacry.exe.md)
-
 ## 🏁 READINGS
 
 * [HackTheBox](readings/hackthebox/README.md)

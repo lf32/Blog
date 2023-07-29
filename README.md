@@ -7,10 +7,8 @@ layout: landing
 
 <figure><img src=".gitbook/assets/Avatar.png" alt=""><figcaption><p>Akhil Raj a.k.a lf32</p></figcaption></figure>
 
-I am a Offensive Pentester and a Security Researcher.
+I am an Offensive penetration tester and security researcher..
 
-I have kneen interest in exploring a lot of stuff on the internet and I spend most of my the time  reading other people blogs & subreddits.
+I have kneen interest in exploring a lot of wild stuff on the internet and I spend most of my the time  reading other people blogs & subreddits.
 
-I can't be like MrRobot because
-
-Still a noob, I'm learning...
+I’m always open to feedback, suggestions and constructive comments. Feel free to reach out, I respond reasonably quick.

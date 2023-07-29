@@ -2,15 +2,17 @@
 
 * [👋 Hello, World, lf32 here!](README.md)
 * [🏴☠ The Elitest Man And His Bookmarks](the-elitest-man-and-his-bookmarks.md)
+* [📌 PIN ME](pin-me/README.md)
+  * [Page 1](pin-me/page-1.md)
 
-## 🏁 READINGS
+## 🏁 WRITEUPS
 
-* [HackTheBox](readings/hackthebox/README.md)
-  * [\[M\] BroScience](readings/hackthebox/m-broscience.md)
-* [CTF Writeups](readings/ctf-writeups/README.md)
-  * [PicoCTF](readings/ctf-writeups/picoctf.md)
-* [OverTheWire](readings/overthewire/README.md)
-  * [🧨 Bandit Wargames](readings/overthewire/bandit.md)
+* [HackTheBox](writeups/hackthebox/README.md)
+  * [\[M\] BroScience](writeups/hackthebox/m-broscience.md)
+* [CTF Writeups](writeups/ctf-writeups/README.md)
+  * [PicoCTF](writeups/ctf-writeups/picoctf.md)
+* [OverTheWire](writeups/overthewire/README.md)
+  * [🧨 Bandit Wargames](writeups/overthewire/bandit.md)
 
 ## 🔑 Howdie Fellas
 

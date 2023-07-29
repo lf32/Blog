@@ -3,7 +3,7 @@
 * [👋 Hello, World, lf32 here!](README.md)
 * [🏴☠ The Elitest Man And His Bookmarks](the-elitest-man-and-his-bookmarks.md)
 * [📌 PIN ME](pin-me/README.md)
-  * [Page 1](pin-me/page-1.md)
+  * [Chaos with .zip domains!](pin-me/chaos-with-.zip-domains.md)
 
 ## 🏁 WRITEUPS
 

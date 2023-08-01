@@ -2,13 +2,15 @@
 
 * [👋 Hello, World, lf32 here!](README.md)
 * [🏴☠ The Elitest Man And His Bookmarks](the-elitest-man-and-his-bookmarks.md)
-* [📌 PIN ME](pin-me/README.md)
-  * [Chaos with .zip domains!](pin-me/chaos-with-.zip-domains.md)
+* [📌 Announcements](announcements/README.md)
+  * [Page 1](announcements/page-1.md)
+  * [Chaos with .zip domains!](announcements/chaos-with-.zip-domains.md)
+  * [Page](announcements/page.md)
 
 ## 🏁 WRITEUPS
 
 * [HackTheBox](writeups/hackthebox/README.md)
-  * [\[M\] BroScience](writeups/hackthebox/m-broscience.md)
+  * [Machines](writeups/hackthebox/machines.md)
 * [CTF Writeups](writeups/ctf-writeups/README.md)
   * [PicoCTF](writeups/ctf-writeups/picoctf.md)
 * [OverTheWire](writeups/overthewire/README.md)

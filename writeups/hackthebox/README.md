@@ -7,6 +7,6 @@ coverY: 64
 
 # HackTheBox
 
-My profile is at [https://app.hackthebox.com/profile/1343388](https://app.hackthebox.com/profile/1343388)
+My profile is at [https://app.hackthebox.com/profile/1593397](https://app.hackthebox.com/profile/1593397)
 
-I am going to add writups for machines based on Linux and Windows.
+I am going to add writeups for machines based on Linux and Windows.
